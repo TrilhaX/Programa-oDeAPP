@@ -3,7 +3,7 @@ import { View, Text } from 'react-native';
 export default function AboutScreen() {
     return (
         <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-            <Text style={{ fontSize: 20, color: "white", width: 1000}}>
+            <Text style={{ fontSize: 15, color: "white", width: 350, fontFamily: "TimesNewRoman", lineHeight: 22}}>
                 Sobre Lies of P 
                 Lies of P é um jogo soulslike de ação e RPG lançado em 2023, desenvolvido pela Round8 Studio e publicado pela NEOWIZ.
                 Inspirado livremente na clássica história de Pinóquio, o jogo apresenta uma versão sombria e adulta do conto.

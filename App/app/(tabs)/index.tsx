@@ -34,24 +34,25 @@ const styles = StyleSheet.create({
         alignItems: "center"
     },
     image: {
-        width: 250,
-        height: 200,
+        width: 500,
+        height: 250,
+        marginBottom: 10
     },
     viewText: {
         flexDirection: "column",
-        width: 360,
+        width: 370,
     },
     textTitle: {
         color: "white",
-        fontSize: 30,
+        fontSize: 32,
         fontWeight: "bold",
         fontFamily: "TimesNewRoman",
         textAlign: "center"
     },
     textDescription: {
         color: "white",
-        fontSize: 15,
-        lineHeight: 20,
+        fontSize: 18,
+        lineHeight: 25,
         fontFamily: "TimesNewRoman",
         textAlign: "center"
     }
